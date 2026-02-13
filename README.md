@@ -6,7 +6,7 @@ A modern, comprehensive School Management System built with **React (Vite)** and
 > **Project Status**: The frontend is 100% functional and designed as a **Standalone Demo**. It uses a mock data interceptor to simulate backend responses, allowing you to explore all features right in the browser. The Node.js/MongoDB backend is currently under development and kept for learning purposes.
 
 ## 🚀 Live Demo
-- **Netlify Link**: school-mngmnt-frontend.netlify.app
+- **Netlify Link**: https://school-mngmnt-frontend.netlify.app/
 - **Standalone Mode**: Enabled by default (No database required).
 
 ## 🌟 Key Features
